@@ -9,5 +9,5 @@
 ## Opis
 
 V tem projektu lahko igrate vislice.
-To storite tako, da poženemo funkcijo /`pozeni_vmesnik` znotraj `tekstovni_vmesnik.py`
+To storite tako, da poženemo funkcijo `pozeni_vmesnik` znotraj `tekstovni_vmesnik.py`
 
