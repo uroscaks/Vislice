@@ -2,8 +2,7 @@
 
 ## Avtorji
 
- -Matija Pretnar
- -Uroš Čakš
+ **-Uroš Čakš**
 
 
 ## Opis
